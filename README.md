@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### GPG key
-
-If you have been following my recent commit history (state 14th of July 2021) you might have noticed that all my commits show up as "unverified" aka. not signed with a GPG key. This is because I have enabled a new beta feature called "Viligant mode" (accessible at the bottom of your "SSH and GPG keys" settings page) which makes unsigned commites appear as "unverified". This would all be fine, if, as previously done, I would have signed my commits. But since roughly a week ago none of my commits are signed and that is because my laptop on which my GPG key was stored malfunctioned and is currently out of service. So there is no reason to worry about these "unverified" commits.
